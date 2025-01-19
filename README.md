@@ -1,6 +1,6 @@
-#IoT Vehicle Protection System
+IoT Vehicle Protection System
 
-#Description
+Description
 
 Ce projet est un système de protection IoT innovant et complet, conçu pour améliorer la sécurité des véhicules. En combinant des capteurs, l'intelligence artificielle et une application mobile, il offre une surveillance en temps réel, des notifications instantanées et des fonctionnalités avancées de reconnaissance faciale.
 
